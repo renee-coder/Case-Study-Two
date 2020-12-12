@@ -1,0 +1,212 @@
+body{
+    font-size: 22.5px;
+    background-color: #fff6f9;
+    font-family: 'Grandstander', cursive;
+    letter-spacing: 0.7;
+}
+.copy_right_footer {
+    position: fixed;
+    color: #ffffff;
+    bottom: 0;
+    width: 100%;
+    background-color:#8d0052;
+    line-height: 2.5;
+    text-align: center;
+    margin-left: -8px; 
+    font-size: 17px;
+ }
+ span
+{
+	color: rgb(133, 0, 77);
+    font-size:21px;
+    font-family: 'Ribeye', cursive;
+
+}	
+li img
+{
+    width: 370px;
+    border-radius: 25px;
+}
+b
+{
+    color: rgb(0, 99, 192);
+    font-size: 21.5px;
+    font-family: 'Love Ya Like A Sister', cursive;
+}
+li{
+    font-size: 20px;
+    margin-left: 50px;
+}
+/*  Test Style  */
+.bag
+{
+	background: #f1fbef;
+	padding: 30px;
+	border-radius: 20px;
+	width: 51%;
+	display: inline-block;
+	box-shadow: 5px 5px 18px grey;
+}
+.cup
+{
+	background: #eeb688 ;
+	padding: 30px;
+	border-radius: 20px;
+	width: 51%;
+	display: inline-block;
+	box-shadow: 5px 5px 18px grey;
+}
+.laptop
+{
+	background: #c7eaff ;
+	padding: 30px;
+	border-radius: 20px;
+	width: 51%;
+	display: inline-block;
+	box-shadow: 5px 5px 18px grey;
+}
+.glasses
+{
+	background: #cfc7ff ;
+	padding: 30px;
+	border-radius: 20px;
+	width: 51%;
+	display: inline-block;
+	box-shadow: 5px 5px 18px grey;
+}
+.pen
+{
+	background: #ffc7f3 ;
+	padding: 30px;
+	border-radius: 20px;
+	width: 51%;
+	display: inline-block;
+	box-shadow: 5px 5px 18px grey;
+}
+.pencil
+{
+	background: #c7fffa ;
+	padding: 30px;
+	border-radius: 20px;
+	width: 51%;
+	display: inline-block;
+	box-shadow: 5px 5px 18px grey;
+}
+.pencil_pouch
+{
+	background: #ffeab2 ;
+	padding: 30px;
+	border-radius: 20px;
+	width: 51%;
+	display: inline-block;
+	box-shadow: 5px 5px 18px grey;
+}
+.fan
+{
+	background: #f3ffbc ;
+	padding: 30px;
+	border-radius: 20px;
+	width: 51%;
+	display: inline-block;
+	box-shadow: 5px 5px 18px grey;
+}
+.santa
+{
+	background: #ffbcbc ;
+	padding: 30px;
+	border-radius: 20px;
+	width: 51%;
+	display: inline-block;
+	box-shadow: 5px 5px 18px grey;
+}
+.clip
+{
+    background-image: linear-gradient(to right, rgb(251, 77, 77),rgb(250, 237, 116),rgb(37, 182, 37),#00aeff,violet);
+	padding: 30px;
+	border-radius: 20px;
+	width: 51%;
+	display: inline-block;
+	box-shadow: 5px 5px 18px grey;
+}
+/*  Result Style  */
+.bag_result
+{
+	text-align: center;
+	background: #abe09e;
+	border-radius: 20px;
+    padding: 10px;
+    font-size: 20px;
+}
+.cup_result
+{
+	text-align: center;
+	background: #d18b51 ;
+	border-radius: 20px;
+    padding: 10px;
+    font-size: 20px;
+}
+.laptop_result
+{
+	text-align: center;
+	background: #9ed6fb ;
+	border-radius: 20px;
+    padding: 10px;
+    font-size: 20px;
+}
+.glasses_result
+{
+	text-align: center;
+	background: #a99afd ;
+	border-radius: 20px;
+    padding: 10px;
+    font-size: 20px;
+}
+.pen_result
+{
+	text-align: center;
+	background: #fd9ad4 ;
+	border-radius: 20px;
+    padding: 10px;
+    font-size: 20px;
+}
+.pencil_result
+{
+	text-align: center;
+	background: #5ae6da ;
+	border-radius: 20px;
+    padding: 10px;
+    font-size: 20px;
+}
+.pencil_pouch_result
+{
+	text-align: center;
+	background: rgb(250, 221, 59) ;
+	border-radius: 20px;
+    padding: 10px;
+    font-size: 20px;
+}
+.fan_result
+{
+	text-align: center;
+	background: #e3fd6f ;
+	border-radius: 20px;
+    padding: 10px;
+    font-size: 20px;
+}
+.santa_result
+{
+	text-align: center;
+	background: #ee4c4c ;
+	border-radius: 20px;
+    padding: 10px;
+    font-size: 20px;
+}
+.clip_result
+{
+	text-align: center;
+	background: #e6dada ;
+	border-radius: 20px;
+    padding: 10px;
+    font-size: 20px;
+}
+
